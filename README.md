@@ -1,8 +1,8 @@
 ### Hello! I'm Pedro Pessoa 👋
 
-I'm a python backend developer and fullstack wannabe from Brazil.
+I'm a python backend developer from Brazil.
 
-**Bio:** My story as a developer begins back on my early teenage days when I did some monkey coded games with 🙈 ActionScript 🙊. After highschool I've tried to get into other fields, first architecture and then music, but neither of them did work for me. Now that I've got back into to programming I can clearly see how much I reeeally like it 😊
+**Bio:** My story as a developer begins back on my early teenage days when I did some monkey coded games with 🙈 ActionScript 🙊. After highschool I've tried to get into other fields, first architecture and then music, but neither of them did work for me. Now that I've got back into programming I can clearly see how much I reeeally like it 😊
 
 ---
 
