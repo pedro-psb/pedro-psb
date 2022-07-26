@@ -12,7 +12,7 @@ I'm a python backend developer from Brazil.
 * Alura Formation on Python Backend development.
 
 *I've been working on this project*, a Point of Sale Web App for scholar canteens. You can:
-* Experiment with the live demo (pending)
+* Experiment with the [live demo](http://pypos-env.eba-vnvdpu3c.us-west-2.elasticbeanstalk.com/)
 * Watch a video walkthrough (pending)
 * Go straight to the [source code](https://github.com/pedro-psb/pypos-canteen)
 
