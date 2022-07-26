@@ -11,7 +11,7 @@ I'm a python backend developer from Brazil.
 * Engenharia de Software Moderna (UFMG) - "Modern Software Engineering", an extension course from a well-known brazillian Federal University. (pending Cert)
 * Alura Formation on Python Backend development.
 
-*I've been working on this project*, a Point of Sale Web App for scholar canteens. You can:
+*I've been working mainly on this project*, a Point of Sale Web App for scholar canteens. You can:
 * Experiment with the [live demo](http://pypos-env.eba-vnvdpu3c.us-west-2.elasticbeanstalk.com/)
 * Watch a video walkthrough (pending)
 * Go straight to the [source code](https://github.com/pedro-psb/pypos-canteen)
