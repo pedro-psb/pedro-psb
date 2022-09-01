@@ -7,7 +7,7 @@ I'm a python backend developer from Brazil.
 ---
 
 *I've taken these courses* to catch up:
-* [Harvard's CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) (pending Cert)
+* [Harvard's CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 * [Engenharia de Software Moderna (UFMG)](http://www.engsoftmoderna.dcc.ufmg.br/) - transalated "Modern Software Engineering"
 * Alura Formation on [Python and OOP](https://cursos.alura.com.br/formacao-Python-linguagem) and [Database Modeling](https://cursos.alura.com.br/formacao-modelagem-dados-v62403)
 
