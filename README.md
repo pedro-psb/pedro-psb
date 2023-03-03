@@ -1,25 +1,46 @@
+<div align="center"> 
+  
 ### Hello! I'm Pedro Pessoa 👋
 
-I'm a python backend developer from Brazil.
+<blockquote>
+  <p><i>
+I'm a former musician who shifted to the tech industry in 2022.</br>
+I really enjoy learning new things and getting my hands dirty, so beeing a software engineer is very exciting for me!</br>
+I'm a also husband, a stepfather and have two cats</br></br>
+  </i></p>
+</blockquote>
 
-**Bio:** My story as a developer begins back in my early teenage days when I did some monkey-coded games with 🙈 ActionScript 🙊. After high school, I tried to get into other fields, first architecture and then music, but neither of them did work for me. Now that I've got back into programming I can clearly see how much I reeeally like it 😊
+🐈‍⬛ 👶 👩‍🦱 🎵 🤓
 
----
+</div>
 
-*I've taken these courses* to catch up:
-* [Harvard's CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-* [Engenharia de Software Moderna (UFMG)](http://www.engsoftmoderna.dcc.ufmg.br/) - transalated "Modern Software Engineering"
-* Alura Formation on [Python and OOP](https://cursos.alura.com.br/formacao-Python-linguagem) and [Database Modeling](https://cursos.alura.com.br/formacao-modelagem-dados-v62403)
+</br>
+</br>
+</br>
+</br>
 
-*I've been working mainly on this project*, a Point of Sale Web App for scholar canteens. You can:
-* Watch a [video presentation](https://youtu.be/jJ_M1ueIH9g)
-* Experiment with the [live demo](http://pypos-env.eba-vnvdpu3c.us-west-2.elasticbeanstalk.com/)
-* Go straight to the [source code](https://github.com/pedro-psb/pypos-canteen)
+<div align="right" style="margin:auto">
+     <a href="https://github.com/vcwild">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-psb&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
+    </a>
+</div>
 
-*I've been trying to write some articles* about my project and learning experience. Check some of the posts:
-* [[HowTo] Deploy Flask on AWS Elastic Beanstalk with the App Factory](https://pedro-psb.github.io/posts/flask-on-aws-with-app-factory/)
-* (...)
+- **I have experience with** python Backend and component-based Frontend development
+- **My main knowledge in technologies are** python language, python webframeworks and React/Typescript.
+- **I'm also confortable with** CI/CD, Database Modeling, Docker and Bash
+- **My abilities include** writting good test suites, refactoring, debugging and applying general software design principles.
 
-**I'm open to work, to contribute on open-source or for general chat.** Contact me here or at:
-* [Linkedin](https://www.linkedin.com/in/pedro-pessoa-51250516b/)
-* [Twitter](https://github.com/pedro-psb)
+</br>
+</br>
+</br>
+</br>
+
+<div align="center">
+  <strong>I'm open to work and to contribute to open source.</strong> Get in touch!
+  </br>
+  </br>
+
+  <a href="https://twitter.com/pedro_brochado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pedro-psb" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/pedro-pessoa-51250516b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedro-psb" height="30" width="30" /></a>
+</div>
